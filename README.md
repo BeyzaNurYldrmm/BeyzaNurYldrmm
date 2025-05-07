@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Beyza Nur YILDIRIM</h1>
 <h3 align="center">I am a software engineering student in TÜRKİYE</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Artificial intelligence**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Artificial intelligence**
 
 - 📫 How to reach me **06beyza336@gmail.com**
 
